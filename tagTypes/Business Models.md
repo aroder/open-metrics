@@ -1,2 +1,0 @@
-#Model/Ecommerce
-#Model/SaaS 
