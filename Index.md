@@ -1,4 +1,3 @@
-
 ## 👋 Purpose
 The Open Metrics Project is designed to **accelerate and improve our combined knowledge of metrics** definitions, applications, and understanding.
 
@@ -16,10 +15,10 @@ Until OMP, there was no resource for business leaders and various data practitio
 Search by clicking the search magnifying glass above, by the title. Then type a question, metric, industry, or business function into the search.
 
 ### 🛒 Browse
-Browse tags by:
-- [Industry](industries)
-- [Business Function](business-functions)
-- [Business Model](business-models)
+Browse tags:
+- [[Industries]] 
+- [[Business Models]]
+- [[Business Functions]]
 
 ### ⛵Explore
 Each metric page includes a knowledge graph with links to related metrics, as well as tags for industry, function, and business model
